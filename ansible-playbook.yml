@@ -22,4 +22,4 @@
   # - name: Deploy Docker Container
   #   command: docker run -itd -p 8085:8081 aasthagupta02/insurance-aastha:1
   - name: Deploy Docker Container
-    command: docker run -itd -p 8085:8081 aasthagupta02/insurance-aastha:1
+    command: docker run -itd -p 8087:8081 aasthagupta02/insurance-aastha:1
