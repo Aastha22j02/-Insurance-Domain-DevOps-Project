@@ -5,7 +5,7 @@ pipeline {
         stage('Git checkout') {
             steps {
                 echo 'checking out the git repo'
-                git 'https://github.com/Aastha22j02/HealthCare-Medicure-DevOps-Project-aastha.git'
+                git 'https://github.com/Aastha22j02/-Insurance-Domain-DevOps-Project.git'
                 
                 
             }
